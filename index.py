@@ -8,8 +8,9 @@ def index():
   <p>A sample web-app for running Flask inside Docker.</p>
   <p> We have make some changes!!! YUPI YUPI YEIIIII !! </p>
   <p> Lets code this shit out </p>
-  <p> hello DEMIRA its me PATRICK!!!! </p>
   <p> lets trigger the pipeline!!! </p>
+  
+<p> trigger pipe</p>
   """
 
 if __name__ == "__main__":
